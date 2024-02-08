@@ -10,6 +10,6 @@ let package = Package(
       .library(name: "shared", targets: ["shared"])
    ],
    targets: [
-      .binaryTarget(name: "shared", url: "https://github.com/pahill/MathsMessagesPackage/releases/download/1.0/shared.xcframework.zip", checksum: "38d9971e4e593e01d1a5a5f74736f1d6")
+      .binaryTarget(name: "shared", url: "https://github.com/pahill/MathsMessagesPackage/releases/download/1.0/shared.xcframework.zip", checksum: "a425087ac52412ba84b252b87aaf06442d9706cbb119e299880d48186b0873a1")
    ]
 )
